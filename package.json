@@ -1,0 +1,32 @@
+{
+  "name": "pruebaeslint",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^2.18.6",
+    "eslint": "^3.12.2",
+    "gulp": "^3.9.1",
+    "gulp-connect": "^5.0.0",
+    "gulp-eslint": "^3.0.1",
+    "gulp-git": "^1.12.0",
+    "gulp-hub": "^0.8.0",
+    "gulp-livereload": "^3.8.1",
+    "gulp-ngdocs": "^0.3.0",
+    "html-webpack-plugin": "^2.26.0",
+    "jasmine-core": "^2.5.2",
+    "karma": "^1.4.0",
+    "karma-chrome-launcher": "^2.0.0",
+    "karma-jasmine": "^1.1.0",
+    "run-sequence": "^1.2.2",
+    "webpack-stream": "^3.2.0"
+  },
+  "dependencies": {
+    "angular": "^1.6.1"
+  }
+}
